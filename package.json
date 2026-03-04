@@ -37,7 +37,7 @@
     ],
     "homepage": [
 
-   "https://<github-username>.github.io/<project-repo>"
+   "https://<github-KGT2003>.github.io/updated-exercise"
   ],
     "predeploy": [ "npm run build"
   ],
