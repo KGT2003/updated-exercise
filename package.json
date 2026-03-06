@@ -2,7 +2,7 @@
   "name": "updated-exercise",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://KGT2003.github.io/updated-exercise",
+  "homepage": "https://kgt2003.github.io/updated-exercise",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -18,9 +18,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-    
+   
   },
   "eslintConfig": {
     "extends": [
